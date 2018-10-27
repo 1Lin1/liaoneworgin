@@ -1,3 +1,4 @@
 tset remote cangku
 hhh
-git &
+git and
+
