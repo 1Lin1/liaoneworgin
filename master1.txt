@@ -1,3 +1,0 @@
-testremote
-testremote2
-no I am master
